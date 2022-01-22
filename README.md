@@ -1,7 +1,7 @@
 # inforce
 Test task (trainee backend developer)
 #
-# "GET" http://localhost:3000/books: 
+# "GET" http://localhost:3000/books 
 return all books and details about it.
 #
 # "GET" http://localhost:3000/books/id 
